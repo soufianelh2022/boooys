@@ -3,16 +3,16 @@
      "onsignal_app_id":"503bc974–5aac-4ab5-a953-afa40f7fc2d5",
       "ShowAds":true,
       "ShowLoadingAds":true,
-      "ClickCount":1,
+      "ClickCount":2,
 
       "huawei_inter":"testb4znbuh3n2",
       "huawei_banner":"testw6vs28auh3",
       "huawei_native":"testu7m3hc4gvm",
      
-      "yandex_banner":"R-M-5548401-1",
-      "yandex_inter":"R-M-5548401-4",
-      "yandex_native":"R-M-5548401-2",
-      "yandex_appopen":"R-M-5548401-3",
+      "yandex_banner":"R-M-7268003-1",
+      "yandex_inter":"R-M-7268003-3",
+      "yandex_native":"R-M-7268003-2",
+      "yandex_appopen":"R-M-7268003-5",
 
      
       "PriorityBanner":"yandex",
